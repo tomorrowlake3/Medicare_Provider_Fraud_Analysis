@@ -62,19 +62,18 @@ Without peer adjustment, these specialties would dominate any "top outlier" list
 ```
 Medicare_Provider_Fraud_Analysis/
 ├── 01_data/
-│   └── va_providers_2023_cleaned.csv   (31,662 VA providers, 35 columns)
+│   └── va_providers_2023_cleaned.csv ✅
 ├── 02_sql/
-│   ├── exploratory_queries.sql         (6 documented analytical queries)
-│   └── va_medicare.db                   (SQLite database for re-analysis)
+│   ├── exploratory_queries.sql ✅
+│   └── va_medicare.db ✅
 ├── 03_python/
-│   ├── risk_scoring.py                  (specialty-adjusted scoring methodology)
-│   └── va_providers_risk_scored.csv    (25,239 scored providers, Tableau-ready)
-├── 04_tableau/
-│   └── medicare_dashboard.twbx          (packaged Tableau workbook)
+│   ├── risk_scoring.py ✅
+│   └── va_providers_risk_scored.csv ✅
+├── 04_tableau/  ⚠️ EMPTY — needs Tableau workbook
 ├── 05_deliverables/
-│   ├── executive_memo.pdf               (2-page leadership summary)
-│   └── executive_memo.docx              (editable version)
-└── README.md
+│   ├── Memo.pdf ✅
+│   └── Memo.docx ✅
+└── README.md ✅
 ```
 
 ---
