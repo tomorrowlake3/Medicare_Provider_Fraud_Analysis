@@ -3,7 +3,7 @@
 A federal data science portfolio project applying specialty-adjusted peer-comparison anomaly detection to public CMS Medicare claims data. The goal: identify a small, high-priority audit population of providers whose billing patterns deviate substantially from specialty norms.
 
 🔴 **[Live Interactive Dashboard](https://public.tableau.com/app/profile/tomorrow.lake5414/viz/MedicareProviderFraudRiskAnalysis-Virginia2023/Dashboard1)**
-📄 **[Executive Memo (PDF)](05_deliverables/executive_memo.pdf)**
+📄 **[Executive Memo (PDF)](05_deliverables/Memo.pdf)**
 
 ---
 
